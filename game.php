@@ -22,11 +22,11 @@
     <p>
       
     </p>
-    <button id="Upgrade">+1 Upgrade Price: 20</span> </button>
+    <button id="Upgrade">+1 Upgrade Price: 20</button>
     <p>
       
     </p>
-     <button id="Upgrade2">+5 Upgrade Price: 150</span> </button>
+     <button id="Upgrade2">+5 Upgrade Price: 150</button>
     <p>
       
     </p>
